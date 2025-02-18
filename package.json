@@ -63,8 +63,8 @@
     "chai": "^5.1.1",
     "chai-as-promised": "^8.0.0",
     "conventional-changelog-conventionalcommits": "^8.0.0",
-    "node-simctl": "^7.0.1",
     "mocha": "^11.0.1",
+    "node-simctl": "^7.0.1",
     "prettier": "^3.0.0",
     "semantic-release": "^24.0.0",
     "semver": "^7.3.7",
@@ -83,8 +83,10 @@
     "axios": "^1.4.0",
     "bluebird": "^3.5.5",
     "lodash": "^4.17.11",
+    "open": "^10.1.0",
     "source-map-support": "^0.x",
-    "teen_process": "^2.2.0"
+    "teen_process": "^2.2.0",
+    "webdriverio": "^9.9.1"
   },
   "files": [
     "index.ts",
